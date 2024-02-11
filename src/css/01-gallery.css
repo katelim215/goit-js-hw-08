@@ -12,6 +12,7 @@
   justify-content: center;
   margin-left: auto;
   margin-right: auto;
+  list-style: none;
 }
 
 .gallery__item {
@@ -34,6 +35,7 @@
 .gallery__link {
   display: block;
   text-decoration: none;
+  list-style: none;
   height: 100%;
 }
 
